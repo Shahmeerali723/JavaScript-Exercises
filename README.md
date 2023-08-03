@@ -9,10 +9,13 @@ submit the URL of the repo.
 1. Install [Node.js](https://nodejs.org/en/) and [VS Code](https://code.visualstudio.com/) on your computer.
 
 Install Node by this command.
-            npm install node 
+
+        npm install node 
+
 Check the version of npm or node 
-            node -v
-            npm -v
+
+        node -v
+        npm -v
             
 
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric,
